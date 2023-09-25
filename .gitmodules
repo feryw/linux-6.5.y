@@ -1,0 +1,4 @@
+[submodule "drivers/net/wireless/realtek/rtl8189fs"]
+	path = drivers/net/wireless/realtek/rtl8189fs
+	url = https://github.com/feryw/rtl8189ES_linux
+	branch = rtl8189fs
